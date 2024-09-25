@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/String1010.github.io/ws101_Regio_Navbar/static/css/main.f24c62df.css",
+    "main.js": "/String1010.github.io/ws101_Regio_Navbar/static/js/main.6a54cfe2.js",
+    "static/js/453.f37c412a.chunk.js": "/String1010.github.io/ws101_Regio_Navbar/static/js/453.f37c412a.chunk.js",
+    "index.html": "/String1010.github.io/ws101_Regio_Navbar/index.html",
+    "main.f24c62df.css.map": "/String1010.github.io/ws101_Regio_Navbar/static/css/main.f24c62df.css.map",
+    "main.6a54cfe2.js.map": "/String1010.github.io/ws101_Regio_Navbar/static/js/main.6a54cfe2.js.map",
+    "453.f37c412a.chunk.js.map": "/String1010.github.io/ws101_Regio_Navbar/static/js/453.f37c412a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24c62df.css",
+    "static/js/main.6a54cfe2.js"
+  ]
+}
